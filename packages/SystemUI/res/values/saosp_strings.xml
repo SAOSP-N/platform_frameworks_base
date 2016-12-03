@@ -105,4 +105,7 @@
     <string name="qs_menu_item_columns_five">5</string>
     <string name="qs_menu_item_reset">Reset</string>
 
+    <!-- Content description of the data connection type HSPA+ for accessibility (not shown on the screen). [CHAR LIMIT=NONE] -->
+    <string name="accessibility_data_connection_hspap">HSPA+</string>
+
 </resources>
