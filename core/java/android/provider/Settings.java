@@ -2869,12 +2869,6 @@ public final class Settings {
         public static final int SCREEN_BRIGHTNESS_MODE_AUTOMATIC = 1;
 
         /**
-         * Whether to show the IME switcher in the status bar
-         * @hide
-         */
-        public static final String STATUS_BAR_IME_SWITCHER = "status_bar_ime_switcher";
-       
-        /**
          * Control whether the process CPU usage meter should be shown.
          *
          * @deprecated This functionality is no longer available as of
@@ -3982,12 +3976,6 @@ public final class Settings {
         public static final String HEADS_UP_NOTIFICATION_SNOOZE = "heads_up_notification_snooze";
 
         /**
-         * Whether to show arrows in the navigation bar while typing
-         * @hide
-         */
-        public static final String NAVIGATION_BAR_MENU_ARROW_KEYS = "navigation_bar_menu_arrow_keys";
-
-        /**
          * Whether to allow fullscreen screenshots or let the user select which area to screenshot
          * @hide
          */
@@ -4019,12 +4007,6 @@ public final class Settings {
          * @hide
          */
         public static final String ENABLE_CONDITIONS = "enable_conditions";
-
-        /**
-         * The delay when killing the app on long press takes place
-         * @hide
-         */
-        public static final String LONG_PRESS_KILL_DELAY = "long_press_kill_delay";
 
         /**
          * Whether to show Brightness Icon On Brightness Slider
@@ -6726,12 +6708,6 @@ public final class Settings {
          * @hide
          */
         public static final String ASSISTANT = "assistant";
-
-         /**
-          * Whether to allow killing of the foreground app by long-pressing the Back button
-          * @hide
-          */
-         public static final String KILL_APP_LONGPRESS_BACK = "kill_app_longpress_back";
 
         /**
          * Whether the camera launch gesture should be disabled.
